@@ -1,2 +1,2 @@
-*.o
-jakeh
+objects/*
+bin/*
